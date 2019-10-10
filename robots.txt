@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahngeupiez.madeleinegagne.ca/sitemap.xml
